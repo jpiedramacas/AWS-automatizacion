@@ -1,4 +1,3 @@
-Claro, aquí tienes los requisitos necesarios para desplegar la aplicación en AWS:
 
 1. **Configurar una instancia EC2 en AWS**:
    - Inicia sesión en la consola de AWS y navega a EC2.
